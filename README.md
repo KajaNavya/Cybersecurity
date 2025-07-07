@@ -1,10 +1,14 @@
 # Cybersecurity
-This project, Ransomware Attack Analysis and Recovery, explores the lifecycle of ransomware attacks, from infiltration to encryption and ransom demands. It examines various types of ransomware—such as cryptographic ransomware, locker ransomware, and scareware and their distribution methods, including phishing emails and exploit kits. The project highlights the profound impact of ransomware on individuals, businesses, and critical infrastructure.
+This repository explores ransomware threats through detailed analysis and practical demonstrations. It covers the history, types, infection vectors, and prevention techniques of ransomware, while also showcasing hands-on implementations in secure environments using Kali Linux, VirtualBox, VMware, and Base64. The project includes:
 
-The practical component demonstrates ransomware implementation in controlled environments using Kali Linux, VirtualBox, VMware, and Base64 encoding techniques. It includes encrypting and decrypting files, creating and managing users in Linux systems, and enforcing file permissions to simulate attacks and recovery scenarios.
+Simulated ransomware encryption & decryption scripts in Python
 
-Preventive measures like regular backups, software updates, firewalls, and employee training are emphasized, along with recovery strategies such as system isolation, malware removal, and restoration from backups. The project also discusses obstacles like technical challenges, distribution complexities, and legal implications, offering robust solution strategies to mitigate risks.
+User & file permission management on Linux (lock/unlock scenarios)
 
-Ultimately, this project serves as both a technical and educational guide, reinforcing the importance of proactive cybersecurity practices to defend against the growing threat of ransomware.
+Demonstrations of exploiting system vulnerabilities in a controlled lab setup
 
+Recovery strategies using backups and anti-malware tools
 
+Mitigation practices including software updates, 2FA, email security, and user training
+
+This repository serves as an educational tool to understand ransomware attacks and emphasizes the importance of strong cybersecurity defenses.
